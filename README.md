@@ -10,8 +10,7 @@ root/
 ├── README.md
 ├── 00_Rare_Variant_Association_and_Burden_Tests.ipynb
 ├── 01_Extract_per_Sample_GT_and_Annotation.ipynb
-├── 02_get_ucsc_bed.py
-└── 03_GBA1.ipynb
+└── 02_GBA1.ipynb
 ```
 
 ### Details
